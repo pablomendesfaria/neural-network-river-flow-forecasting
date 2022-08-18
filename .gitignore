@@ -9,3 +9,6 @@ venv.bak/
 
 # Pycharm
 .idea/
+
+# Colab
+.ipynb_checkpoints/
